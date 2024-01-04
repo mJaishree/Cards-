@@ -1,0 +1,23 @@
+.container{
+	display : flex;
+	gap : 50px;
+}
+
+
+.team{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	width : 20%;
+	/*display : inline-block;
+	 margin-right : 30px;*/
+}
+
+h4{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Mooli', sans-serif;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+.content{
+	padding : 2px 16px;
+}
